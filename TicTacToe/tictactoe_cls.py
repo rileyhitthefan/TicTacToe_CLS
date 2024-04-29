@@ -5,6 +5,8 @@ row = 3
 col = 3
 
 # TicTacToe game from user MJeremy2017 on GitHub
+# https://towardsdatascience.com/reinforcement-learning-implement-tictactoe-189582bea542
+
 class TicTacToe:
     def __init__(self, p1, p2):
         self.board = np.zeros((row, col))
