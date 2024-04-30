@@ -1,3 +1,4 @@
+## Collective Learning Unsupervised Tic Tac Toe
 ### Instruction (python <= 3.11.5)
 
 1. Make sure **"tictactoe_cls.py"**, **"tictactoe_game.py"** and **"TicTacToe.ipynb"** is available in the same folder.
