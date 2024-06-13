@@ -1,6 +1,6 @@
 ## Collective Learning Unsupervised Tic Tac Toe
 
-Lab assignment for CS 40503: Artificial Intelligence
+Lab assignment for COSC 40503: Artificial Intelligence
 
 ### Instruction (python <= 3.11.5)
 
